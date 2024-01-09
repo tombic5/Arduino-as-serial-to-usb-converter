@@ -5,8 +5,7 @@ Replaced with sketch from Arduino discussion https://github.com/arduino/Arduino/
 
 Leonardo pinouts:
 
-USB - USB in/out 
-
-RX pin 0 -> RX (connect to TX pin on remote device)
-TX pin 1 -> TX (connect to RX pin on remote device)
+* USB - USB in/out 
+* RX pin 0 -> RX (connect to TX pin on remote device)
+* TX pin 1 -> TX (connect to RX pin on remote device)
 
